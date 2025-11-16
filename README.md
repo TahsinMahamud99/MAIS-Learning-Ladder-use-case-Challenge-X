@@ -2,7 +2,7 @@ Learning Ladder AI
 Enhancing Education with Artificial Intelligence
 Overview
 
-*NOTE, TO KEEP THE API AND THE ACTUAL PROJECT PRIVATE DUE TO BE CRUCIAL FOR MAIS ITSELF, WE ARE NOT PROVIDING ANY OF THEIR CODE (WE WERE EDITING THEIR EXISTING CODE)
+*NOTE, TO KEEP THE API AND THE ACTUAL PROJECT PRIVATE DUE TO BE CRUCIAL FOR MAIS ITSELF, WE ARE NOT PROVIDING ANY OF THEIR CODE (WE WERE EDITING THEIR EXISTING CODE WE WILL UPDATE THIS REPOSITORY AFTER ASKING THEM ABOUT WHAT ARE WE ALLOWED TO SHARE, THANK YOU)
 
 Learning Ladder AI is an innovative platform designed to help educators and learners integrate artificial intelligence into classroom instruction, curriculum planning, and student-centered learning experiences. By leveraging AI’s capabilities—such as content generation, multimedia design, and adaptive instruction—this platform supports the entire teaching-learning loop, allowing educators to focus more on pedagogy and student engagement rather than manual content creation.
 
